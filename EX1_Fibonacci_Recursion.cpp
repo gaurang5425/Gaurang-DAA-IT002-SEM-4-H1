@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #include<time.h>
 using namespace std;
-
+ 
 int fib(int n)
 {
 	if (n <= 1)
